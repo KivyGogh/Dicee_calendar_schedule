@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\8768f89bff82a0e51da4ee0592aa4752ab98afb2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="700f8f1135982ef49cb91121a76490565f069553">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_176b767ba9e9e69c06026d492ea665dcee229420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\8eb5056f15f9193c484226be104ed0a5c0bd51f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_7f987465a561e595d8bd2da538a5a673a90254ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\3.5.0\1e4b144dd28b139ae890ce2868979b12e1f2d7c7\realm-annotations-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e4b144dd28b139ae890ce2868979b12e1f2d7c7">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\realm-annotations-3.5.0_d515f9d43ec9de2af880de455d292b758a994029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\2d054597d83673aa97e3b4f34fc63a473d00e3ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_69aa3a11c5493bc53698e104f829440ebd866717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\beb806bd943a2de1b13c0b48acb5d4c6e022ea0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_4e1ec9fc2db95c78ac4abbd91fd363e2f4dadf0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\34ac1a28e4d79f9df54a13538aad1343bec43199\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_b045561d98033156a9a0f1cfba1b26c3874d9261.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\b2611ca1ccc9853017afbc6b359020089d717a8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32c0bf3a62b3f92a29e778953d1929c378aab264">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_a0692507b00df14807b7eee66ce378942b2f6c0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\retrofit-1.9.0_050d847cc576f9de042e3a00f87e42905e1fd9aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\2ca703996d40090b55347a6c3e8413955409337e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_6d71ad5e707399a8b757c31ba9ec62d018e56126.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.7\6eb2e87ddb09e944bb88f06f19ba0638d4607ffd\joda-time-2.9.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6eb2e87ddb09e944bb88f06f19ba0638d4607ffd">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\joda-time-2.9.7_bbddc64b36a81087823a7df9234bd0a9c4537182.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\82407ed56666ac9a3318e33fcb48a65891e651ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_2524cc00cc720719b8fc4026007c43f936eceb9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\gson-2.3.1_885b97f574395fc6dc6193654823e682bd704acc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\7a2db3eb4515bfbd111710e9a5d262b8b2f821b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_fcc6536926cfb9cfe2ff3f92c17264732b502aad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\calendarSchedule\calendar_schedule\calendar\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7531016fc640da9e411be32047a6b13180a0b8b">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_88451ab33206c2fb763fd38f5fe9ab427ef6f9b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\3be4d6d967acdad2d0af862b01bcb9df9eb76945\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_377ebd4587805dc0baed0c2778a59d9b8ce75d8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\217c554d9d8d16fa1099a2b81524e2d819df9be8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_6889ac1e389c8271c61540c74d6872088b39d5a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\50eea210da22c940c499504812e5d31c004df067\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_2ad2dc34cce0530523a8333a34f82333b56e3429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\dde50e2da7250033236fb596cb007a765a7e8517\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_1537d6269d1b16c5e57f265548eac4bb612ca0c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\efc984314d3a5ffceb01a33569790c186523192c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_2e50d5c7bc2a0d1c6881df014799f2a0e95cca67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\calendarSchedule\calendar_schedule\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f01774e027191fc554c37c0287482bdad31e172">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_ff4fe863409049c93e26e97d2439d98053b14007.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\44a54593652f362fffb8eb3983ae8b7898d9440c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_d89773d0f50dddc8e410d9745d223f03f01882ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1231db52c00db475ce2b4a7565aa18c35b78b45f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\danielding\.android\build-cache\3a948230bc9ee5b62fd40d647b6397d2d9261a3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Code\calendarSchedule\calendar_schedule\sample\build\intermediates\pre-dexed\debug\classes_43d8200f06d71c1a7ff429448cbdee6adcc9a2ce.jar" />
+    </item>
+
+</items>

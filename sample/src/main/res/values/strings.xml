@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Workload</string>
+    <string name="action_today">Today</string>
+    <string name="action_day_view">Day</string>
+    <string name="action_three_day_view">3日视图</string>
+    <string name="action_week_view">Week</string>
+    <string name="title_activity_basic">基本样例</string>
+    <string name="month_view">Month</string>
+    <string name="calendar_view">List</string>
+    <string name="title_activity_asynchronous">异步请求事件</string>
+    <string name="async_error">无法从网络下载日程</string>
+    <string name="add_schedule">EDIT</string>
+    <string name="sync_system_schedule">读取手机系统日程，插入系统日程</string>
+    <string name="sync_system_event">同步手机系统事件</string>
+</resources>
